@@ -1,14 +1,32 @@
-# international migrant stock between 1990 and 2020
+# international migrant stock from 1990 to 2020
 
-An infovis dashboard for international migrant stock between 1990 and 2020 in Angularjs.
+An infovis dashboard for international migrant stock from 1990 to 2020.
 
 ## Introduction
 
-The proposed interactive dashboard helps data analysts and regular users track the evolution of international migrant stock over time. The dashboard is rendered using [D3.js](https://d3js.org/) which idioms, filters and separate panels that help the users identify patterns in the stock flux or focus on specific aspects of the data.
+The proposed infovis dashboard is a dynamic and interactive tool designed to assist data analysts and general users in monitoring the trends and changes in international migrant stock from 1990 to 2020. The dashboard, built using Angularjs and [D3.js](https://d3js.org/), offers intuitive visualizations, powerful filtering options, and distinct panels to help users identify patterns in the global migration data or focus on specific aspects of interest.
+
+Through such a dashboard, users can gain valuable insights into the dynamics of international migration, understand migration patterns over time, and make informed decisions based on the trends observed.
+
+## Installaion
+
+```bash
+cd dashboard
+npm ci
+```
+
+## Usage
+
+```bash
+cd dashboard
+python -m http.server 8080
+```
+
+Then, open `localhost:8080` in your browser.
 
 ## Dataset
 
-The dashboard fetches data from [UNIMG 2020](https://www.un.org/development/desa/pd/content/international-migrant-stock), a five-annual census international migrant stock dataset provided by the United Nations up to 2020.
+The dashboard sources its data from [UNIMG 2020](https://www.un.org/development/desa/pd/content/international-migrant-stock), a comprehensive and regularly updated census dataset maintained by the United Nations. The dataset provides detailed information on international migrant stock, capturing data at five-year intervals up to the year 2020. By utilizing an authoritative dataset, we are able to ensure accurate and reliable information for analysis and exploration.
 
 ## Authors
 
