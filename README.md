@@ -28,7 +28,7 @@ Then, open `localhost:8080` in your browser.
 
 ## Dataset
 
-The dashboard sources its data from [UNIMG 2020](https://www.un.org/development/desa/pd/content/international-migrant-stock), a comprehensive and regularly updated census dataset maintained by the United Nations. The dataset provides detailed information on international migrant stock, capturing data at five-year intervals up to the year 2020 (so far). By making use of an authoritative dataset, we are able to ensure accurate and reliable information for analysis and exploration.
+The dashboard sources its data from [UNIMG 2020](https://www.un.org/development/desa/pd/content/international-migrant-stock), a comprehensive and regularly updated census dataset maintained by the United Nations. The dataset provides detailed information on international migrant stock, capturing data at five-year intervals up to the year 2020 (so far). By making use of an authoritative dataset, we are able to ensure accurate and reliable information for both analysis and exploration.
 
 ## Authors
 
