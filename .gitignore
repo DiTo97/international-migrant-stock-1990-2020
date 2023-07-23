@@ -1,18 +1,19 @@
-# Build and Release Folders
+# Angular.js
 bin-debug/
 bin-release/
 [Oo]bj/
 [Bb]in/
 
-# Other files and folders
+# configs and IDEs
 .settings/
+.vscode/
 
-# Executables
+# executables
 *.swf
 *.air
 *.ipa
 *.apk
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+# Node.js
+node_modules/
+

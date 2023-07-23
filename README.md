@@ -1,5 +1,18 @@
-# Evolution of International Migrant Stock
+# international migrant stock between 1990 and 2020
 
-`Authors`: _Daniel Surpanu_, _Federico Minutoli_, and _Matteo Ghirardelli_
+An infovis dashboard for international migrant stock between 1990 and 2020 in Angularjs.
 
-The project is available online on GitHub at https://github.com/danigit/world_migration_visualization
+## Introduction
+
+The proposed interactive dashboard helps data analysts and regular users track the evolution of international migrant stock over time. The dashboard is rendered using [D3.js](https://d3js.org/) which idioms, filters and separate panels that help the users identify patterns in the stock flux or focus on specific aspects of the data.
+
+## Dataset
+
+The dashboard fetches data from [UNIMG 2020](https://www.un.org/development/desa/pd/content/international-migrant-stock), a five-annual census international migrant stock dataset provided by the United Nations up to 2020.
+
+## Authors
+
+- [@DiTo97](https://github.com/DiTo97)
+- [@arcadeghira](https://github.com/arcadeghira)
+- [@danigit](https://github.com/danigit)
+
