@@ -6,9 +6,7 @@ An infovis dashboard for international migrant stock from 1990 to 2020.
 
 ## Introduction
 
-The proposed infovis dashboard is a dynamic and interactive tool designed to assist data analysts and general users in monitoring the trends and changes in international migrant stock from 1990 to 2020. The dashboard, built using [Angularjs](https://angularjs.org/) and [D3.js](https://d3js.org/), offers intuitive visualizations, powerful filtering options, and distinct panels to help users identify patterns in the global migration data or focus on country-specific aspects of interest.
-
-Through such a dashboard, users can gain valuable insights into the dynamics of international migration, understand migration patterns over time, and make informed decisions based on the observed trends.
+The proposed infovis dashboard is a dynamic and interactive tool designed to assist data analysts and general users in monitoring the trends and changes in international migrant stock from 1990 to 2020. The dashboard, built using [Angularjs](https://angularjs.org/) and [D3.js](https://d3js.org/), offers intuitive visualizations, powerful filtering options, and distinct panels to help users identify global migration patterns over time, focus on country-specific aspects of interest and make informed decisions based on the observed trends.
 
 ## Installation
 
