@@ -1,0 +1,8 @@
+{
+    "name": "international-migrant-stock-1990-2020",
+    "version": "1.0.0",
+    "description": "An infovis dashboard for international migrant stock between 1990 and 2020",
+    "dependencies": {
+        "angularjs-slider": "7.0.0"
+    }
+}
