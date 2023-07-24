@@ -4,7 +4,7 @@ An infovis dashboard for international migrant stock from 1990 to 2020.
 
 [![dashboard](assets/dashboard.png)](assets/dashboard.mp4)
 
-For a complete overview of the dashboard, download the recorded .mp4 video from [here](assets/dashboard.mp4) or by clicking on the image above.
+For a complete overview, download the recorded .mp4 video from [here](assets/dashboard.mp4) or by clicking on the image above.
 
 ## Introduction
 
