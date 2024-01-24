@@ -1,6 +1,6 @@
-# international migrant stock from 1990 to 2020
+# international migrant stock on UNIMS 2020
 
-An infovis dashboard for international migrant stock from 1990 to 2020.
+An infovis dashboard for international migrant stock from 1990 to 2020 on UNIMS 2020.
 
 [![dashboard](assets/dashboard.png)](assets/dashboard.mp4)
 
