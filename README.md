@@ -1,12 +1,12 @@
 # international migrant stock on UNIMS 2020
 
-An infovis dashboard for international migrant stock from 1990 to 2020 on UNIMS 2020.
+An infovis dashboard for international migrant stock from 1990 to the present on UNIMS 2020.
 
 ![dashboard](assets/dashboard.gif)
 
 ## introduction
 
-The proposed infovis dashboard is a dynamic and interactive tool designed to assist data analysts and general users in monitoring the trends and changes in international migrant stock from 1990 to 2020.
+The proposed infovis dashboard is a dynamic and interactive tool designed to assist data analysts and general users in monitoring the trends and changes in international migrant stock from 1990 to the present.
 
 The dashboard, built using [angularjs](https://angularjs.org/) and [D3js](https://d3js.org/), offers intuitive visualizations, powerful filtering options, and distinct panels to help users understand global migration patterns over time, focus on country-specific or country-to-country aspects of interest and make informed decisions based on the observed trends.
 
@@ -38,7 +38,7 @@ The dashboard sources its data from [UNIMS 2020](https://www.un.org/development/
   url = {https://github.com/DiTo97/international-migrant-stock-UNIMS-2020},
   version = {1.0.0},
   year = {2024},
-  note = {An infovis dashboard for international migrant stock from 1990 to 2020 on UNIMS 2020}
+  note = {An infovis dashboard for international migrant stock from 1990 to the present on UNIMS 2020}
 }
 ```
 
