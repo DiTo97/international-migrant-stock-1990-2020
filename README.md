@@ -28,21 +28,23 @@ Then, open [localhost:8080](localhost:8080)  in your browser.
 
 ## dataset
 
-The dashboard sources its data from [UNIMS 2020](https://www.un.org/development/desa/pd/content/international-migrant-stock), a comprehensive and regularly updated census dataset maintained by the United Nations. The dataset provides detailed information on international migrant stock, collecting data at five-year intervals up to the year 2020 (so far). By making use of an authoritative dataset, we are able to ensure accurate and reliable information for both analysis and research.
+The dashboard sources its data from [UNIMS 2020](https://www.un.org/development/desa/pd/content/international-migrant-stock), a comprehensive and regularly updated census dataset maintained by the United Nations for population statistics. The dataset provides detailed information on international migrant stock, collecting data at five-year intervals up to 2020 (so far). By making use of an authoritative dataset, we are able to ensure accurate and reliable information for both analysis and research.
 
-<!-- ## citation
+## citation
 
 If you use the software in your research, cite it using such reference:
 
 ```plaintext
-@misc{IMS-UNIMS-2020,
-  author = {Federico Minutoli, Daniel Surpanu, Matteo Ghirardelli},
-  title = {international-migrant-stock-UNIMS-2020,
-  year = {2024},
+@software{IMS-UNIMS-2020,
+  author = {Minutoli, Federico and Surpanu, Daniel and Ghirardelli, Matteo},
+  license = {MIT},
+  title = {international-migrant-stock-UNIMS-2020},
   url = {https://github.com/DiTo97/international-migrant-stock-UNIMS-2020},
+  version = {1.0.0},
+  year = {2024},
   note = {An infovis dashboard for international migrant stock from 1990 to 2020 on UNIMS 2020}
 }
-``` -->
+```
 
 ## authors
 
