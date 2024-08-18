@@ -30,8 +30,6 @@ The dashboard sources its data from [UNIMS 2020](https://www.un.org/development/
 
 ## citation
 
-If you use the software in your research, cite it using such reference:
-
 ```plaintext
 @software{IMS-UNIMS-2020,
   author = {Minutoli, Federico and Surpanu, Daniel and Ghirardelli, Matteo},
