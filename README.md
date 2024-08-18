@@ -24,11 +24,9 @@ cd dashboard/
 python -m http.server 8080
 ```
 
-Then, open [localhost:8080](localhost:8080)  in your browser.
-
 ## dataset
 
-The dashboard sources its data from [UNIMS 2020](https://www.un.org/development/desa/pd/content/international-migrant-stock), a comprehensive and regularly updated census dataset maintained by the United Nations for population statistics. The dataset provides detailed information on international migrant stock collecting data at five-year intervals up to the year 2020 (so far). By making use of an authoritative dataset, we are able to ensure accurate and reliable information for both analysis and research.
+The dashboard sources its data from [UNIMS 2020](https://www.un.org/development/desa/pd/content/international-migrant-stock), a comprehensive and regularly updated census dataset maintained by the United Nations for population statistics. The dataset provides detailed information on international migrant stock collecting data at five-year intervals up to the year 2020 (so far). By making use of an authoritative dataset, we are able to ensure accurate and reliable information for further analysis and research.
 
 ## citation
 
